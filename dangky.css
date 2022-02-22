@@ -1,0 +1,65 @@
+*{
+    margin: 0 ;
+    padding: 0px;
+}
+body{
+    width: 980px;
+    margin: 0 auto;
+}
+h1{
+    font-size: 65px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 10px;
+    background-color: rgb(163, 253, 223);
+    border: 1px solid black;
+    width: 450px;  
+}
+.dangk{
+    padding-left: 300px;
+}
+
+.dangky{
+    width: 50%;
+
+}
+.gioitinh{
+    width: 20%;
+}
+div{
+    width: 45%;
+}
+
+div input{
+    width: 100%;
+}
+div input:hover{
+    background-color: rgb(199, 195, 195);
+}
+div label{
+    font-size: 20px;
+    width: 100%;
+}
+div button{
+    font-size: 17px;
+    border-radius: 10px;
+}
+div button:hover{
+    background-color: rgb(236, 147, 147);
+}input{
+    line-height: 25px;
+}
+
+
+aside p{
+    margin-top: 10px;
+    float: right;
+    margin-right:430px;
+    color: white;
+    font-size: 14px;
+}
+aside{
+    margin-top:5px;
+    border-top: 1px solid blue;
+    line-height: 25px;
+    background-color:blue ;
+}
